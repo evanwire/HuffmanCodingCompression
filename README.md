@@ -8,10 +8,13 @@ I implemented the Huffman Encoding algorithm to compress/decompress either a fil
 
 ### Flags
 
--\-b: indexes the given file/folder and outputs a huffman codebook in the same directory that fileCompressor was invoked in
--\-c: compress a given file/folder using the given codebook
--\-d: decompress a given file/folder using the given codebook
--\-R: runs any of the above operations in recursive mode, which means the file argument needs to be a path, and the fileCompressor will recursive descend into the given directory and all subdirectories, performing the given operation to all files found
+- \-b: indexes the given file/folder and outputs a huffman codebook in the same directory that fileCompressor was invoked in
+
+- \-c: compress a given file/folder using the given codebook
+
+- \-d: decompress a given file/folder using the given codebook
+
+- \-R: runs any of the above operations in recursive mode, which means the file argument needs to be a path, and the fileCompressor will recursive descend into the given directory and all subdirectories, performing the given operation to all files found
 
 ## What I plan to change in the future
 
