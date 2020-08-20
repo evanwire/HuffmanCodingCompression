@@ -1,1 +1,0 @@
-To test the code, we placed files in different directories and saw if the code could properly navigate to it and compress or decompress all of the files. We also tried including different amounts of whitespace in the file to see if our handling of it was appropriate. We tried this with different types of files to make sure it worked properly.
